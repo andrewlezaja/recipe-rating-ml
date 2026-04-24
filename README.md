@@ -1,3 +1,11 @@
+# Recipe Rating Prediction
+
+Predicted average user ratings for 83,782 recipes from food.com using engineered 
+nutritional features (protein-per-calorie, sugar-to-fat ratios) and a tuned Random 
+Forest Regressor (GridSearchCV across 10+ architectures).
+
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+
 # Is it Worth Making Long Recipes?
 
 Dylan Pham (dpham@umich.edu), Andrew Lezaja (alezaja@umich.edu)
